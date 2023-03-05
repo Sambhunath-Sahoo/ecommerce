@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "Mern Ecommerce",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sambhunath-Sahoo/ecommerce.git"
+  },
+  "author": "Sams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sambhunath-Sahoo/ecommerce/issues"
+  },
+  "homepage": "https://github.com/Sambhunath-Sahoo/ecommerce#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
